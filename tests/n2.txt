@@ -1,0 +1,5 @@
+4
+cambodia 1 3 7
+vanuatu 1 2 6
+scotland 2 10 10
+chad 2 15 7

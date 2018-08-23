@@ -1,0 +1,17 @@
+16
+lesotho 1 2 6
+usa 1 1 5
+somalia 3 17 13
+cameroon 2 6 14
+nicaragua 1 4 8
+antigua 1 2 7
+panama 1 2 5
+luxembourg 1 5 6
+seychelles 1 7 8
+austria 1 4 8
+uzbekistan 3 21 17
+ethiopia 4 23 10
+namibia 2 12 10
+oman 2 9 15
+dominicanrep 2 7 11
+england 4 27 6

@@ -1,0 +1,9 @@
+8
+yemen 2 12 14
+nauru 1 8 9
+latvia 1 1 4
+usa 3 9 9
+bangladesh 2 6 4
+ukraine 1 2 6
+mozambique 1 0 5
+denmark 3 19 6
